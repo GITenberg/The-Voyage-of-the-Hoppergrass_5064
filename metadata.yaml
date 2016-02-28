@@ -1,0 +1,26 @@
+_repo: The-Voyage-of-the-Hoppergrass_5064
+creator:
+  author:
+    agent_name: Pearson, Edmund Lester
+    alias: Pearson, E. L. (Edmund Lester)
+    birthdate: 1880
+    deathdate: 1937
+    gutenberg_agent_id: '1418'
+    url: http://www.gutenberg.org/2009/agents/1418
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Lester_Pearson
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5064'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Boats and boating -- Juvenile fiction'
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Voyage of the Hoppergrass
+url: http://www.gutenberg.org/ebooks/5064
