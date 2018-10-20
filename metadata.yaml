@@ -1,5 +1,5 @@
 _repo: The-Voyage-of-the-Hoppergrass_5064
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,5 +28,6 @@ subjects:
 - !lcsh 'Boats and boating -- Juvenile fiction'
 - !lcsh 'Pirates -- Juvenile fiction'
 - !lcc 'PZ'
+- GITenberg
 title: The Voyage of the Hoppergrass
 url: http://www.gutenberg.org/ebooks/5064
